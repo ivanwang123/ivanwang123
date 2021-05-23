@@ -18,6 +18,10 @@
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ivanwang123&show_icons=true&theme=gotham" alt="stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ivanwang123&show_icons=true&theme=gotham" alt="stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight" alt="stats" />
+  
+  
 ![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ivanwang123&layout=compact)
 
 
