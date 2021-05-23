@@ -14,6 +14,13 @@
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwindcss" width="40" height="40"/>
 </p>
 
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ivanwang123&show_icons=true&theme=gotham" alt="stats" />
 ![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ivanwang123&layout=compact)
+
+
+</details>
 
 ### Check out my projects 👇
